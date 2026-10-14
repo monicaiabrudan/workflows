@@ -358,7 +358,7 @@ by the pipeline; versions recorded in `results/run*/pipeline_info/`.
 ## Troubleshooting
 
 | Symptom | Likely cause | Fix |
-|------------------------|------------------------|------------------------|
+|----|----|----|
 | `Cannot connect to the Docker daemon` | Docker not running or no permissions | Start Docker; add user to the `docker` group; or use Apptainer |
 | Samplesheet validation error | Wrong header, spaces, missing file | Check column names and paths |
 | `Unknown method invocation exists on LinkedList` | A path in the samplesheet contains a wildcard (`*`, `?`, `[ ]`), usually because no files matched | Open `samplesheet.csv`, make sure every path is a real file, and rebuild it |
