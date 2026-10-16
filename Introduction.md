@@ -20,4 +20,4 @@ The course would be most suitable for participants who have:
 
 -   An interest in reproducible research, workflow automation, and cloud-based genomic analysis.
 
-![](Cloud computing course - Cluj.png)
+![]("Cloud computing course - Cluj.png")
