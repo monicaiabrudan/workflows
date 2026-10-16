@@ -1,6 +1,6 @@
----
-title: "Short Course on Reproducible Genomics using Containers, Workflow Managers and Cloud Computing"
----
+
+***Short Course on Reproducible Genomics using Containers, Workflow Managers and Cloud Computing***
+
 
 *29-30 October 2026, Babes-Bolyai University, Cluj-Napoca, Romania*
 
